@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329166780630",
+    "project_id": "city-student-portal",
+    "storage_bucket": "city-student-portal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329166780630:android:02c266422ffdbf1255b177",
+        "android_client_info": {
+          "package_name": "com.example.student_portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagD6y-sXDmIls3o7POrNIrOSz8Zn_TWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
