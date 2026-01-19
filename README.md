@@ -11,7 +11,6 @@ A comprehensive Flutter-based student management system with Firebase backend in
 ## 📋 Table of Contents
 
 - [Features](#-features)
-- [Screenshots](#-screenshots)
 - [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
 - [Test Credentials](#-test-credentials)
@@ -50,12 +49,6 @@ A comprehensive Flutter-based student management system with Firebase backend in
 - Automatic blocking for unpaid fees
 - Dedicated "Fees Block" page for unpaid students
 - Seamless redirect to dashboard after payment
-
----
-
-## 📱 Screenshots
-
-> Add screenshots of your application here
 
 ---
 
